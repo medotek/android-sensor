@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">courscapteurs</string>
+    <string name="getSensorList">getSensorList</string>
+    <string name="getAvailableSensorList">verify accelerometer disponibility</string>
+</resources>
